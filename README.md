@@ -1,12 +1,12 @@
 # coloring-app
 
-PROJECT REQUIREMENTS:
+# PROJECT REQUIREMENTS:
 1.Stable internet 
 2.How to use HTML,CSS and Javascript
 3.Should have a text editor of your choice, Though I recommend visual code.
 
 
-Project Folder Structure:
+# Project Folder Structure:
 Let’s build the project folder structure before we begin writing the code. We create a project folder called ‘Paint App’. Inside this folder, we have three files. These files are index.html, style.css, and script.js.
 
 # STEPS.

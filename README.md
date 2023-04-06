@@ -24,3 +24,5 @@ d.When the user clicks/touches the image we get the x and y position
 
 # CONCLUSION
 We've been able to build our coloring app using the html,css and javascript.
+
+# LICENCE:MIT
